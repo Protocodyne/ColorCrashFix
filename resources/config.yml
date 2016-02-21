@@ -1,0 +1,8 @@
+#채팅으로 OP 권한 자가 취약 색코드 사용을 금할 것인지의 여부
+chat-deny-op: false
+#명령어로 OP 권한 자가 취약 색코드 사용을 금할 것인지의 여부
+cmd-deny-op: false
+#채팅으로 취약 색코드를 사용했을 때 추방 여부
+chat-kick: false
+#명령어로 취약 색코드를 사용했을 때 추방 여부
+cmd-kick: false

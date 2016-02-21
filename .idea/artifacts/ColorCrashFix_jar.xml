@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ColorCrashFix:jar">
+    <output-path>$PROJECT_DIR$/../../../MCServer/New RVS/plugins</output-path>
+    <root id="archive" name="ColorCrashFix.jar">
+      <element id="module-output" name="ColorCrashFix" />
+    </root>
+  </artifact>
+</component>

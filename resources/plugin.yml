@@ -1,0 +1,6 @@
+name: ColorCrashFix
+version: 1.0
+main: kr.RVS.ColorCrashFix.Main
+author: EntryPoint
+commands:
+  ccfreload:
