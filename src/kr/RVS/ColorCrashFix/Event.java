@@ -40,7 +40,7 @@ public class Event implements Listener {
 
             Utill.sendMSGtoOP(Utill.colorize("&e&l" + e.getPlayer().getName() + " &f님의 명령어를 통한 색코드 취약점 사용을 차단했습니다."));
             Utill.sendMSGtoOP(Utill.colorize("제작자: EntryPoint / 아이디어 제공자: Beebbong"));
-            e.setCancelled(true);
+            e.setMessage("/ccfblock");
 
         }
     }
@@ -67,7 +67,7 @@ public class Event implements Listener {
 
             Utill.sendMSGtoOP(Utill.colorize("&e&l" + e.getPlayer().getName() + " &f님의 채팅을 통한 색코드 취약점 사용을 차단했습니다."));
             Utill.sendMSGtoOP(Utill.colorize("제작자: EntryPoint / 아이디어 제공자: Beebbong"));
-            e.setCancelled(true);
+            e.setMessage("k");
 
         }
 
